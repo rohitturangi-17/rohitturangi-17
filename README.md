@@ -68,10 +68,11 @@
 
 ###
 
-<h3 data-importer="text" align="left">Social Media</h3>
+<h2 data-importer="text" align="left">Social Media</h2>
 
+###
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/rohitkumarturangi1710/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
