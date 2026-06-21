@@ -1,20 +1,20 @@
-<h1 data-importer="text" align="left">Hey 👋 I'm Rohit kumar turangi</h1>
+<h1 data-importer="text" align="left">Hey 👋, I'm Rohit Kumar Turangi</h1>
 
 ###
 
-<p data-importer="text" align="left">I'm a Cloud, DevOps & AI Learner building scalable solutions with networking expertise, from India. 🚀</p>
+<h2 data-importer="text" align="left">Network Engineer @mastec </h2>
+
+<ul align="left">
+  <li>☁️ Transitioning from Network Engineering to Cloud & AI Engineering</li>
+  <li>🛠️ Building solutions with Azure, Python, Linux, Docker, Git, Kubernetes, IaC, and CI/CD</li>
+  <li>🤖 Exploring Generative AI, Prompt Engineering, and AI Automation</li>
+  <li>🌐 Experienced in FTTH, LAN/WAN/MAN, Ericsson Integration, and Cisco Networking</li>
+  <li>🚀 Combining Cloud, DevOps, AI, and Networking to build scalable solutions</li>
+</ul>
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
-
-###
-
-<p data-importer="text" align="left">☁️ Transitioning from Network Engineering to Cloud & AI Engineering.<br>🛠️ Building solutions with Azure, Python, Linux, Docker, Git, Kubernetes, IAC and CI/CD.<br>🤖 Exploring Generative AI, Prompt Engineering, and AI Automation.<br>🌐 Experienced in FTTH, LAN/WAN/MAN, Ericsson Integration, and Cisco Networking.<br>🚀 Aspiring to combine Cloud, DevOps, AI, and Networking to build scalable solutions.</p>
-
-###
-
-<h2 data-importer="text" align="left">Skills</h2>
+<h2 data-importer="text" align="left">Languages&Tools</h2>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Social Media</h2>
+<h2 data-importer="text" align="left">Connect With Me</h2>
 
 ###
 
