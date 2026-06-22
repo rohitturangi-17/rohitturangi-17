@@ -2,7 +2,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Network Engineer @mastec </h2>
+<h2 data-importer="text" align="left">Network Engineer 2 @mastec </h2>
 
 <ul align="left">
   <li>☁️ Transitioning from Network Engineering to Cloud & AI Engineering</li>
